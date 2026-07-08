@@ -7,6 +7,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: '/v0-admin-dashboard-ui',    
+  assetPrefix: '/v0-admin-dashboard-ui/'
 }
 
 export default nextConfig
